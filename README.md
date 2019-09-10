@@ -37,3 +37,12 @@ I learned what bash is (a command line/text interface) and how to use it to:
 
 I learned about markdown, which is a simplified language used to quickly create websites and slides using text and symbols such as `#`, `*`, and `-`. 
 
+---
+
+## Visual Studio Code (VSC)
+
+I learned how to edit files in VSC, as well as how to navigate through and manipulate text using keyboard shortcuts. I also learned how to search for and install extensions to increase/alter the capabilities of the program, and how to alter program preferences.
+
+---
+
+
