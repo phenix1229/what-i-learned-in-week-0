@@ -45,4 +45,6 @@ I learned how to edit files in VSC, as well as how to navigate through and manip
 
 ---
 
+## Git and Github
 
+I learned about version control using git and github. I learned how to upload and download files from my own account, in addition to how to pull files (fork) from someone else' account. 
